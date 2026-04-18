@@ -1,0 +1,6 @@
+A tattoo is a type of item that is drawn or cut into a creature's skin and usually takes the form of images or symbols.
+#Mechanics
+#Mechanics
+#hidden
+#hidden
+#hidden
