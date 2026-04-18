@@ -1,0 +1,6 @@
+A wight is an undead creature that drains life and stands vigil over a burial site.
+#Mechanics
+#Mechanics
+#hidden
+#hidden
+#hidden

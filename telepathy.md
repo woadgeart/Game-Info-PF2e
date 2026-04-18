@@ -1,0 +1,6 @@
+A creature with telepathy can communicate mentally with creatures. This doesn't give any special access to their thoughts, and communicates no more information than normal speech would.
+#Mechanics
+#Mechanics
+#hidden
+#hidden
+#hidden
