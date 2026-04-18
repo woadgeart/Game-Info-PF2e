@@ -1,0 +1,6 @@
+Effects with this trait heal undead creatures with void energy, deal void damage to living creatures, or manipulate void energy.
+#Mechanics
+#Mechanics
+#hidden
+#hidden
+#hidden
